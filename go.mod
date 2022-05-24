@@ -1,4 +1,4 @@
-module github.com/imgk/caddy-trojan
+module github.com/orangejyc/caddy-trojan
 
 go 1.18
 
